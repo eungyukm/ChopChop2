@@ -71,3 +71,5 @@ ProjectSettings/Packages/com.unity.polybrush/Settings.json
 /ProjectSettings/Packages/com.unity.progrids/Settings.json
 Assets/Polybrush Data*
 Assets/PolybrushData*
+Assets/Scripts/Characters/StateMachine/.DS_Store
+Assets/Scripts/StateMachine/.DS_Store
