@@ -586,6 +586,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpawnSystem
       objectReference: {fileID: 0}
+    - target: {fileID: 2125786285293829329, guid: e978d53d440e0814086759404585ac32,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2125786285293829334, guid: e978d53d440e0814086759404585ac32,
         type: 3}
       propertyPath: _cameraManager
@@ -4438,7 +4443,7 @@ PrefabInstance:
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.22959732
+      value: 0.22959733
       objectReference: {fileID: 0}
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
@@ -4448,7 +4453,7 @@ PrefabInstance:
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.008454341
+      value: -0.008454344
       objectReference: {fileID: 0}
     - target: {fileID: 8745341640208226293, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
