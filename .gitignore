@@ -73,3 +73,7 @@ Assets/Polybrush Data*
 Assets/PolybrushData*
 Assets/Scripts/Characters/StateMachine/.DS_Store
 Assets/Scripts/StateMachine/.DS_Store
+/ChopChop/Library
+/ChopChop/Logs
+/ChopChop/Temp
+/ChopChop/UserSettings
